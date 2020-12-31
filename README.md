@@ -1,2 +1,0 @@
-# ugolok
-Begin app
